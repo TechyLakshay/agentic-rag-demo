@@ -12,7 +12,7 @@ fyujkj
 ---
 
 ## 🚀 Features
-- Local document Q&A using FAISS + HuggingFace embeddings
+- Local document Q&A using FAISS + HuggingFace embeddings fg
 - Web search integration via Tavily
 - Simple Streamlit UI
 - Modular tools for future expansion
