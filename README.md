@@ -16,6 +16,8 @@ fyujkj
 - Web search integration via Tavily
 - Simple Streamlit UI
 - Modular tools for future expansion
+- easy to use
+
 
 ---
 
